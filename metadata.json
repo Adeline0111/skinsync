@@ -1,0 +1,7 @@
+{
+  "name": "SkinSync",
+  "description": "A luxury skincare tracking and routine management application with personalized health scores and progress monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
